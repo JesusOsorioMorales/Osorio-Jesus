@@ -1,0 +1,8 @@
+div {
+    border-style: solid;
+    border-width: spx;
+}
+
+.container {
+    border-color: blue;
+}
