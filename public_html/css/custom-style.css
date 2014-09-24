@@ -1,8 +1,12 @@
 div {
     border-style: solid;
-    border-width: spx;
+    border-width: 5px;
+    border-color: green; 
+    padding: 30px;
 }
-
 .container {
     border-color: blue;
+}
+.row{
+    border-color: red;
 }
